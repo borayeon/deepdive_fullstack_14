@@ -116,7 +116,7 @@
     flex-direction: column;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
     .header__buttons span,
   .header__fixed-buttons span {
     display: none; /* 모바일에서는 텍스트 숨김 */

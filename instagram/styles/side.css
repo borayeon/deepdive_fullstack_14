@@ -188,3 +188,9 @@
         display: flex;
     }
 }
+@media (max-width: 1400px) {
+    .side-menu{
+        display: none
+    }
+
+}
